@@ -48,15 +48,6 @@ document.getElementById('copyButton').addEventListener('click', copyToClipboard)
 
 O projeto foi implantado no GitHub Pages e pode ser acessado pelo seguinte URL: [Decodificador de Texto](https://gutis-007.github.io/Decodificador-de-texto/).
 
-## Contribuição
-
-Sinta-se à vontade para contribuir com este projeto. Para isso, siga os passos abaixo:
-
-1. **Fork o Repositório**
-2. **Crie uma Branch para sua Funcionalidade (git checkout -b feature/nova-funcionalidade)**
-3. **Commit suas Mudanças (git commit -m 'Adiciona nova funcionalidade')**
-4. **Push para a Branch (git push origin feature/nova-funcionalidade)**
-5. **Abra um Pull Request**
 
 ## Licença
 
