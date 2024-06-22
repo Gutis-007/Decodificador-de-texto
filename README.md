@@ -1,6 +1,6 @@
-Claro! Aqui está o conteúdo completo para o arquivo `README.md` do seu projeto de codificador e decodificador de texto:
 
-```markdown
+
+
 # Codificador e Decodificador de Texto
 
 Este é um projeto simples de codificador e decodificador de texto desenvolvido em JavaScript. O objetivo deste projeto é permitir que os usuários insiram um texto e escolham codificar ou decodificar esse texto usando uma interface web intuitiva.
